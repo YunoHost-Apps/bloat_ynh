@@ -29,7 +29,7 @@ Features:
 
 ## 截图
 
-![Bloat 的截图](./doc/screenshots/example.jpg)
+![Bloat 的截图](./doc/screenshots/example.png)
 
 ## 文档与资源
 

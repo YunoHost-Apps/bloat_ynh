@@ -29,7 +29,7 @@ Features:
 
 ## Снимки экрана
 
-![Снимок экрана Bloat](./doc/screenshots/example.jpg)
+![Снимок экрана Bloat](./doc/screenshots/example.png)
 
 ## Документация и ресурсы
 

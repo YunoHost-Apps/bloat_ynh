@@ -29,7 +29,7 @@ Features:
 
 ## Schermafdrukken
 
-![Schermafdrukken van Bloat](./doc/screenshots/example.jpg)
+![Schermafdrukken van Bloat](./doc/screenshots/example.png)
 
 ## Documentatie en bronnen
 

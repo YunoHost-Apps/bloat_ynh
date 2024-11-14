@@ -29,7 +29,7 @@ Features:
 
 ## Pantaila-argazkiak
 
-![Bloat(r)en pantaila-argazkia](./doc/screenshots/example.jpg)
+![Bloat(r)en pantaila-argazkia](./doc/screenshots/example.png)
 
 ## Dokumentazioa eta baliabideak
 

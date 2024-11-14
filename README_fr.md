@@ -29,7 +29,7 @@ Caractéristiques :
 
 ## Captures d’écran
 
-![Capture d’écran de Bloat](./doc/screenshots/example.jpg)
+![Capture d’écran de Bloat](./doc/screenshots/example.png)
 
 ## Documentations et ressources
 

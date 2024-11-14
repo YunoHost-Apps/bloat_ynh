@@ -29,7 +29,7 @@ Features:
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Bloat](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada Bloat](./doc/screenshots/example.png)
 
 ## Dokumentasi dan sumber daya
 

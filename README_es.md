@@ -29,7 +29,7 @@ Features:
 
 ## Capturas
 
-![Captura de Bloat](./doc/screenshots/example.jpg)
+![Captura de Bloat](./doc/screenshots/example.png)
 
 ## Documentaciones y recursos
 
