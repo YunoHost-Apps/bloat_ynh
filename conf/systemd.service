@@ -5,8 +5,8 @@ Description=Bloat - Web client for Pleroma
 Type=simple
 User=__APP__
 Group=__APP__
-WorkingDirectory=__INSTALL_DIR__
-ExecStart=/usr/local/bin/bloat
+WorkingDirectory=__INSTALL_DIR__/
+ExecStart=__INSTALL_DIR__/bloat -f __INSTALL_DIR__/bloat.gen.conf
 StandardOutput=append:/var/log/__APP__/__APP__.log
 StandardError=inherit
 

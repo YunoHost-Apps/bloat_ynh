@@ -42,11 +42,6 @@ ynh_backup "/etc/fail2ban/filter.d/$app.conf"
 # BACKUP VARIOUS FILES
 #=================================================
 
-ynh_backup "/etc/$app.conf"
-ynh_backup "/usr/local/share/bloat/static"
-ynh_backup "/usr/local/share/bloat/templates"
-ynh_backup "/usr/local/bin/bloat"
-
 # NB: /var/log is not backuped during safety-backup-before-upgrades, same as $data_dir
 ynh_backup "/var/log/$app/"
 
