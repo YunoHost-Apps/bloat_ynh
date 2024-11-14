@@ -1,5 +1,5 @@
 [Unit]
-Description=Bloat - Web client for Pleroma 
+Description=Bloat: Web client for Pleroma 
 
 [Service]
 Type=simple
