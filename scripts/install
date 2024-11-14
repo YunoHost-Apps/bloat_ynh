@@ -21,18 +21,10 @@ ynh_go_install
 
 pushd $install_dir
     ynh_exec_as_app make
-    make install
 popd
 
-ynh_replace --match="listen_address=127\.0\.0\.1:8080" --replace="listen_address=127\.0\.0\.1:__PORT__" --file=$install_dir/bloat.gen.conf
-ynh_replace --match="client_website=http:\/\/127\.0\.0\.1:8080" --replace="client_website=__DOMAIN__" --file=$install_dir/bloat.gen.conf
-
-#=================================================
-# APP INITIAL CONFIGURATION
-#=================================================
-ynh_script_progression "Adding $app's configuration files..."
-
-ynh_config_add --template="$install_dir/bloat.gen.conf" --destination="/etc/$app.conf"
+ynh_replace --match="listen_address=127\.0\.0\.1:8080" --replace="listen_address=127\.0\.0\.1:__PORT__" --file=$install_dir/bloat.conf
+ynh_replace --match="client_website=http:\/\/127\.0\.0\.1:8080" --replace="client_website=__DOMAIN__\/__PATH__" --file=$install_dir/bloat.conf
 
 #=================================================
 # SYSTEM CONFIGURATION
