@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Bloat for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Working status](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Working status](https://apps.yunohost.org/badge/state/bloat)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Install Bloat with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 

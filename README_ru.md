@@ -5,7 +5,9 @@
 
 # Bloat для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Состояние работы](https://apps.yunohost.org/badge/state/bloat)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Установите Bloat с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 

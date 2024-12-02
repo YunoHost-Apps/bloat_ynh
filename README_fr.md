@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Bloat pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/bloat)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Installer Bloat avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 

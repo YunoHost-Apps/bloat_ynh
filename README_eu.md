@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Bloat YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/bloat)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Instalatu Bloat YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 
