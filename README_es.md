@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Bloat para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Estado funcional](https://apps.yunohost.org/badge/state/bloat)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Instalar Bloat con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 
@@ -29,7 +31,7 @@ Features:
 
 ## Capturas
 
-![Captura de Bloat](./doc/screenshots/example.jpg)
+![Captura de Bloat](./doc/screenshots/example.png)
 
 ## Documentaciones y recursos
 

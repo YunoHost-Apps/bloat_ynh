@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Bloat voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/bloat)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Bloat met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 
@@ -29,7 +31,7 @@ Features:
 
 ## Schermafdrukken
 
-![Schermafdrukken van Bloat](./doc/screenshots/example.jpg)
+![Schermafdrukken van Bloat](./doc/screenshots/example.png)
 
 ## Documentatie en bronnen
 

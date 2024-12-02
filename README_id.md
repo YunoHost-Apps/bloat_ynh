@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Bloat untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/bloat.svg)](https://ci-apps.yunohost.org/ci/apps/bloat/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/bloat.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/bloat.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/bloat)](https://ci-apps.yunohost.org/ci/apps/bloat/)
+![Status kerja](https://apps.yunohost.org/badge/state/bloat)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/bloat)
 
 [![Pasang Bloat dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=bloat)
 
@@ -29,7 +31,7 @@ Features:
 
 ## Tangkapan Layar
 
-![Tangkapan Layar pada Bloat](./doc/screenshots/example.jpg)
+![Tangkapan Layar pada Bloat](./doc/screenshots/example.png)
 
 ## Dokumentasi dan sumber daya
 
