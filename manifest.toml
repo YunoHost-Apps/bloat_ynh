@@ -15,7 +15,7 @@ admindoc = "https://git.freesoftwareextremist.com/bloat/tree/README"
 code = "https://git.freesoftwareextremist.com/bloat/"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = ["amd64"]
 multi_instance = false
@@ -54,3 +54,5 @@ ram.runtime = "50M"
 
     [resources.apt]
     
+    [resources.go]
+    version = "1.23"
